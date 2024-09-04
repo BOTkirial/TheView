@@ -74,10 +74,10 @@ ces tables sont présentes par défaut et ne nécessitent pas un type de contenu
 
 
 ## Technologies
-- (https://nordhealth.design/components/icon/?example=color)[Design System Nord]
-- (https://www.typescriptlang.org/)[TypeScript]
-- (https://symfony.com/doc/current/frontend/encore/typescript.html)[Symfony]
-- (https://www.postgresql.org/)[PostGre]
+- [Design System Nord](https://nordhealth.design/components/icon/?example=color)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Symfony](https://symfony.com/doc/current/frontend/encore/typescript.html)
+- [PostGre](https://www.postgresql.org/)
 
 
 
