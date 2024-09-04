@@ -73,4 +73,11 @@ ces tables sont présentes par défaut et ne nécessitent pas un type de contenu
 - Projet : il propose une vue kanban plutôt que table
 
 
+## Technologies
+- (https://nordhealth.design/components/icon/?example=color)[Design System Nord]
+- (https://www.typescriptlang.org/)[TypeScript]
+- (https://symfony.com/doc/current/frontend/encore/typescript.html)[Symfony]
+- (https://www.postgresql.org/)[PostGre]
+
+
 
