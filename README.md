@@ -76,7 +76,7 @@ ces tables sont présentes par défaut et ne nécessitent pas un type de contenu
 ## Technologies
 - [Design System Nord](https://nordhealth.design/components/icon/?example=color)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Symfony](https://symfony.com/doc/current/frontend/encore/typescript.html)
+- [Directus](https://directus.io/)
 - [PostGre](https://www.postgresql.org/)
 
 
