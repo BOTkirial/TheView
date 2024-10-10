@@ -26,6 +26,12 @@ Les champs disponibles pour les contenus personnalisés :
 - Toggle
 - Text
 
+## collaboration
+
+TheView est pensé pour être utilisé dans un foyer :
+- facilement selfhostable
+- comptes utilisateurs simples à configurer 
+
 ## Technologies Front
 
 - [Mantine](https://mantine.dev/core/stack/)
