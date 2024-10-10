@@ -1,77 +1,30 @@
 # TheView
 
-Une application de connaissance centralisée :
+Une application de prise de notes et de connaissance centralisée :
 
-## Des notes
-- Editeur Markdown
-- Des liens entre notes
-- Une arborescence de dossiers
+## Des Notes
 
-### Éditeur
-- compatible Markdown
-- possibilité de switch entre rendu et source
+En son coeur, TheView est une application web de prise de notes. à ce titre, elle propose de :
 
-### Mise en forme 
-- titres
-- souligné
-- gras
-- barré
-- couleur
-- surligné
-- séparateur
-- image
-- Deux colonnes
+- D'éditer des notes avec un éditeur markdown WYSIWIG
+- D'organiser ses notes selon un système de tag hiérarchisés
+- D'effectuer une recherche au sein de ses notes
 
-## Fonctionnalités 
-- palette de commande
-- fuzzy search
-- snippets
+## Des Widgets
 
-## Types de contenu
-- On peut définir un type de contenu (un ensemble de champs prédéfinis personnalisés)
-- on peut appliquer un ou plusieurs types de contenu a une note, ce qui lui attache leurs propriétés 
-- pour créer un nouveau contenu d'un certain type, on crée une nouvelle note, on lui attribue un type, et on renseigne les propriétés
+La fonctionnalité principale de TheView est l'incorporation de widget au sein des notes.
+2 widgets sont proposés :
+- Kanban
+- Type de contenu personnalisé
 
-### Type de champs disponibles
-- Coordonnées
-- Date
-- Date / Heure
-- Texte (long)
-- Texte (court)
-- Nombre (simple)
-- Nombre (note)
-- Nombre (slider)
-- Nombre (durée)
+Un type de contenu personnalisé permet d'incorporer une série de champs de formulaire au sein d'une note et de la catégoriser automatiquement.
+Cela permet de rapidemment créer une sorte de base de données intégrée aux notes.
+
+Les champs disponibles pour les contenus personnalisés :
+- Relation vers une note
+- Carte du monde
 - Toggle
-- Fichier Externe (upload)
-- Choix (inline)
-- Choix (dropdown)
-- Choix (radio)
-(la source des choix est alimentée par une table d'un type de contenu)
-
-### Formulaires 
-- par défaut, chaque type de contenu possède un formulaire de création qui permet créer de nouvelles notes de ce type
-- Chaque type de contenu possède également un formulaire de modification pour éditer les propriétés des notes déjà créés de ce type
-- le formulaire de modification peut être désactivé pour ne servir que d'affichage des propriétés 
-
-### Tables
-- par défaut, chaque type de contenu possède une vue "table", qui permet de lister les notes de ce type et leurs propriétés
-- les tables peuvent être triées
-- les tables peuvent être filtrées
-
-### Intégration 
-- il est possible d'intégrer dans une note des formulaires ou des tables
-- il est possible de passer des paramètres aux formulaires et aux tables (un tri, un filtre, une valeur par défaut etc.)
-
-### Tables particulières 
-ces tables sont présentes par défaut et ne nécessitent pas un type de contenu particulier :
-- notes modifiées récemment
-- notes d'un dossier particulier
-- notes à une note à X profondeur
-
-### Type de contenu particulier 
-- Projet : il propose une vue kanban plutôt que table
-
+- Text
 
 ## Technologies Front
 
