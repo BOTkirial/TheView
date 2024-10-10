@@ -73,9 +73,14 @@ ces tables sont présentes par défaut et ne nécessitent pas un type de contenu
 - Projet : il propose une vue kanban plutôt que table
 
 
-## Technologies
+## Technologies Front
+
 - [Mantine](https://mantine.dev/core/stack/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [TipTap](https://tiptap.dev/product/editor)
+
+## Technologies Back
+
 - [Supabase](https://supabase.com/docs)
 
 
