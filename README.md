@@ -30,7 +30,9 @@ Les champs disponibles pour les contenus personnalisés :
 
 TheView est pensé pour être utilisé dans un foyer :
 - facilement selfhostable
-- comptes utilisateurs simples à configurer 
+- comptes utilisateurs
+- partage de notes
+- gestion des droits CRUD en note par note
 
 ## Technologies Front
 
